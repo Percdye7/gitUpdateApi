@@ -1,7 +1,7 @@
 # gitUpdateApi
 Small Updater API, which Checks the version file and Downloads the newest Version.
 
-## For a Documentation and how to Install look up the [Wiki Tab](https://github.com/Percdye7/gitUpdateApi/wiki).
+## For a Documentation and how to Install look up the [Wiki Tab](https://github.com/Percdye7/gitUpdateApi/wiki/Getting-Started).
 
 
 # What does this API do?
